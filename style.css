@@ -740,6 +740,33 @@ h1 > span {
   }
 }
 
+/* 999.98px
+@media (max-width: 62.49875em) {
+  .contact__wrapper {
+    max-width: 27.8rem;
+  }
+
+  .contact__text {
+    text-align: center;
+  }
+}
+
+footer {
+  padding-block: 40px 60px;
+}
+
+@media (min-width: 37.5em) {
+  footer {
+    padding-block: 30px 40px;
+  }
+}
+
+@media (min-width: 62.5em) {
+  footer {
+    padding-block: 47px 92px;
+  }
+} */
+
 /* 999.98px */
 @media (max-width: 62.49875em) {
   .contact__wrapper {
